@@ -1,2 +1,2 @@
 # a-test-for-solar-optimum-inclination
-matlab caculation
+通过matlab和数据计算某地最佳太阳能集热器的最佳倾角的作业
